@@ -275,7 +275,7 @@ patchesStrategicMerge:
 ---
 
 ## ⚙️ Common Flags
-
+```
 # Use these with most commands
 -n <namespace>      # Target namespace
 -A                  # All namespaces
@@ -286,5 +286,5 @@ patchesStrategicMerge:
 --force             # Force delete
 -l key=value        # Filter by label
 --sort-by=<field>   # Sort (e.g., creationTimestamp)
-
+```
 ---
