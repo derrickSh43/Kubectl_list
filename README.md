@@ -93,7 +93,7 @@
 ```kubectl delete deployment <name> -n <namespace>```
 
 # View rollout status
-kubectl rollout status deployment <name> -n <namespace>
+```kubectl rollout status deployment <name> -n <namespace>```
 
 # Roll back to previous revision
 ```kubectl rollout undo deployment <name> -n <namespace>```
